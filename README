@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=855
+
+These rules provide syntax hilighting and a set of useful "iabbrev" macros for use when writing HLSL (High Level Shading Language) code for DirectX 9 and above. File types includ e.hlsl and .fx -- the abbreviations are provided to reate template declarations for various tweakable data types in FX, including floats, float vectors, matrices, textures and samplers, render passes, etc. They are found defined at the end of the file.
+
+Finally, the shiftwidth is set to 4 to match common shading-language editing tools such as the defaults for Visual Studio.NET and NVIDIA FX Composer.
